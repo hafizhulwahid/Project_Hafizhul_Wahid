@@ -5,8 +5,6 @@ public class HelloWorld {
     String alamat = "Jakarta";
     String kelas = "PPL";
     int umur = 20;
-    int anak = 4;
-    
     System.out.println("Nama saya : " + nama + ", Alamat : " + alamat + ", Umur : " + umur);  
      
   }
